@@ -20,7 +20,7 @@ export default abstract class Archetype {
   }
 
   get cost(): number {
-    return this.cost;
+    return this._cost;
   }
 
   public static createdArchetypeInstances(): number {
