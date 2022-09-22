@@ -10,7 +10,7 @@ export interface FighterMain {
 
 export default interface Fighter extends FighterMain {
   attack(enemy: FighterMain | SimpleFighter): void;
-  special?(enemy: FighterMain): void;
+  special?(enemy: FighterMain | SimpleFighter): void;
   receiveDamage(attackPoints: number): number;
   levelUp(): void;
 } 
