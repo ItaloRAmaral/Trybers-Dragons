@@ -16,7 +16,7 @@ O projeto trata-se de um desafio para consolidar o aprendizado de TypeScript jun
 Clone o repositório em uma pasta de preferência
 
 ```
-git clone git@github.com:ItaloRAmaral/Star-Wars-Planet-Search.git
+git clone git@github.com:ItaloRAmaral/Trybers-Dragons.git
 ```
 
 Entre na pasta que você acabou de clonar, e instale as dependencias
